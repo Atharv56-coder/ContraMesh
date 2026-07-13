@@ -1,0 +1,10 @@
+FREELANCE SOFTWARE DEVELOPMENT CONTRACT
+
+§1. PAYMENT TERMS AND DEADLINES
+The Client shall pay all invoices submitted by the Developer within 14 days of invoice receipt.
+
+§5. TIMESHEET VERIFICATION POLICY
+The Developer may only submit invoices once timesheets have been verified by the Client's legal and accounting departments. Timesheet verification takes exactly 30 days to complete from submission.
+
+§8. INTELLECTUAL PROPERTY
+Upon signing, the Developer assigns all rights, titles, and interests in the software code to the Client. The Client reserves the right to decline payment for any works they deem unsatisfactory at their sole discretion.

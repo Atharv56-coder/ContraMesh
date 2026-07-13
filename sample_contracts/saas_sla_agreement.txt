@@ -1,0 +1,10 @@
+SaaS SERVICE LEVEL AGREEMENT (SLA)
+
+§3. SLA CREDIT POLICY
+In the event that service availability drops below 99.9% during any 30-day billing cycle, the Customer shall be entitled to credits.
+
+§4. SLA REPORTING DEADLINE
+To receive SLA credits, the Customer must submit a formal credit claim and outage log within 20 days prior to the end of the billing cycle in which the outage occurs.
+
+§9. INDEMNITY AND CAPPED LIABILITY
+The Service Provider's total aggregate liability for all claims is limited to $100. The Customer shall defend, indemnify, and hold harmless the Service Provider from any third-party claims without limit.
